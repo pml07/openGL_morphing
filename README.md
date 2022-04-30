@@ -25,9 +25,3 @@
 ---
 ##### 截圖呈現
 ![](https://i.imgur.com/tMhjRD1.png)
-##### 操作影片
-{%youtube WXYk1IJ--6g %}
-
-#### Warping animation呈現
-* 點選 ShowAnimate Button
-{%youtube 2hH0gOun1lg %}
